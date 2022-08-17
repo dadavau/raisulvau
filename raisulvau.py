@@ -406,7 +406,7 @@ __________________×______________________
 
   Facebook : Alex Dada Chowdhury 
   
-  Youtube : 💔
+  Fb Group : TERMUX paid command's
   
   Contact : +8801309200208
 __________________×______________________\033[1;37m""")
